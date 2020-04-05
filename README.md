@@ -22,4 +22,6 @@ For the Hackathon, I reused the InspiritAI database, but it should be quite simp
 The `AWS` environment (at the time of the Hackathon in Jan 2020) did use an older backend, so the model runs much slower on `AWS` than `Colab`. The model used in the port
 is almost the exact same, so I will not be including the `AWS` model and its local app in this repository.
 
+I've uploaded the notebook without clearning the output.
+
 
