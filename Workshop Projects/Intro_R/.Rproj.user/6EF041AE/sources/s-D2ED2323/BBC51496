@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579370930521.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BBC51496",
+    "lastKnownWriteTime" : 2619372589552,
+    "last_content_update" : 1579370930521,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BEA7331",
+        "caption" : "clean_word_count_ny",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=clean_word_count_ny&cache_key=BEA7331",
+        "displayedObservations" : 39739,
+        "environment" : "",
+        "expression" : "clean_word_count_ny",
+        "object" : "clean_word_count_ny",
+        "preview" : 0,
+        "totalObservations" : 39739,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

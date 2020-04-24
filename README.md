@@ -1,8 +1,14 @@
 # HackArizona2020
-This repository contains my `MindfulDrivers` (not a very original name I suppose) machine learning model that won Amazon's category 
-for Most Impactful use of Driven Data at Hack Arizona 2020.
+This repository contains all my project files from both the workshops and competition at Hack Arizona 2020.
 
-### The Model
+The Hackathon Project directory contains my `MindfulDrivers` (not a very original name I suppose) machine learning model that won Amazon's category 
+for Most Impactful use of Driven Data.
+
+The Workshop Projects directory contains my the Intro to R and Twitter Mining in R projects that I worked on.
+
+
+
+## The Model
 This project is based on and builds on a the `DistractedDrivers` project I completed in at the InspiritAI Scholars program.
 It uses a transfer leaning model based on `VGG16` and shows off better architecture planning and pruning in `Keras` as well as
 data visualisation through `Matplotlib` and `Seaborn`. More importantly, this project discusses the possible applications of these trends.
